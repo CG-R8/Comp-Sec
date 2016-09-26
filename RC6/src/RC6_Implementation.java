@@ -34,6 +34,9 @@ public class RC6_Implementation {
 				System.out.println(token);
 			}
 
+			System.out.println("Please enter the 32 bit input\n");
+			
+			
 		}
 		scanner.close();
 
